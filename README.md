@@ -1,2 +1,1 @@
-# lp-experiments
-LP experiments
+PL explorations with Racket
